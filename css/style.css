@@ -35,6 +35,8 @@ h3,
   background: -webkit-linear-gradient(#eee,#4b2289);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin: auto;
+  padding: auto;
 
 }
 
